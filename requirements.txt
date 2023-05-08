@@ -1,0 +1,16 @@
+pandas
+sklearn
+sklearn.tree
+sklearn.model_selection
+seaborn
+matplotlib
+matplotlib.pylot
+six
+IPython.display
+pydotplus
+Graphviz
+sklearn.metrics
+numpy
+scipy
+statsmodels.api
+sklearn.linear_model
